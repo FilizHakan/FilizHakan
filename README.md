@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FilizHakan
-- 👀 I’m interested in Project Management and Product Management oriented UX Design
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on Product and Project management with Agile methodologies
+- 👀 I’m interested in Web developement, Project and Product Management with a user centric approach (UX and UI Design)
+- 🌱 I’m currently learning Fron-End Development with the one and only JavaScript (React)
+- 💞️ I’m looking to collaborate on Web development, Product and Project management with an Agile mindset
 - 📫 How to reach me : filizhakan13@gmail.com
 
 <!---
